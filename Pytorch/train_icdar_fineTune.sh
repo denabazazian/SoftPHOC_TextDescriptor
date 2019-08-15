@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python train_icdar_fineTune.py --backbone resnet --lr 0.00001 --weight-decay 0.00001 --workers 16 --epochs 100 --batch-size 16 --gpu-ids 0,1,2,3 --resume /path/to/deeplabV3Plus/synthText_models_softPHOC/run_tripleLoss/synthText/adam_BCE_resnet/experiment_6/checkpoint.pth.tar --checkname adam_BCE_resnet --eval-interval 1 --dataset icdar

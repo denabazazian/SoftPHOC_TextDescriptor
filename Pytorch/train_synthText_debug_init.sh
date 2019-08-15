@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0, python train_synthText.py --backbone resnet --lr 0.0007 --workers 8 --epochs 70 --batch-size 2 --gpu-ids 0 --init /path/to/trained_models/deeplab/deeplab_pascalVOC/deeplab-resnet.pth.tar --checkname deeplab-resnet --eval-interval 1 --dataset synthText
