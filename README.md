@@ -45,8 +45,8 @@ Please cite [this work](arxiv.org/pdf/1809.00854.pdf) in your publications if it
 
 @article{Bazazian18-softPHOC,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	author = {D.~Bazazian and D.~Karatzas and A.~Bagdanov},<br />
-	title = {Soft-PHOC Descriptor for End-to-End Word Spotting in Egocentric Scene Images},<br />
-	journal = {EPIC workshop at European Conference on Computer Vision Workshop},<br />
-	year = {2018},<br />
-        ee = {arxiv.org/pdf/1809.00854.pdf}<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	title = {Soft-PHOC Descriptor for End-to-End Word Spotting in Egocentric Scene Images},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	journal = {EPIC workshop at European Conference on Computer Vision Workshop},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	year = {2018},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ee = {arxiv.org/pdf/1809.00854.pdf}<br />
 }<br />
