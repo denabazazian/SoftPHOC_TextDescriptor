@@ -1,7 +1,7 @@
 # SoftPHOC_TextDescriptor
 Soft-PHOC is an intermediate representation of images based on character probability maps.
 
-[this work](arxiv.org/pdf/1809.00854.pdf) has two implementations based on Pytorch and TensorFlow.
+[This work](arxiv.org/pdf/1809.00854.pdf) has two implementations based on Pytorch and TensorFlow.
 
 
 # Pytorch #
@@ -39,13 +39,14 @@ bash train_synthText.sh
 The TensorFlow implementation of Soft-PHOC. 
 
 
-#Citation
-Please cite [this work](arxiv.org/pdf/1809.00854.pdf) in your publications if it helps your research: 
+# Citation #
 
-@article{Bazazian18-softPHOC,
-	author = {D.~Bazazian and D.~Karatzas and A.~Bagdanov},
-	title = {Soft-PHOC Descriptor for End-to-End Word Spotting in Egocentric Scene Images},
-	journal = {EPIC workshop at European Conference on Computer Vision Workshop},
-	year = {2018},
-        ee = {arxiv.org/pdf/1809.00854.pdf}
-}
+Please cite [this work](arxiv.org/pdf/1809.00854.pdf) in your publications if it helps your research: <br />
+
+@article{Bazazian18-softPHOC,<br />
+	author = {D.~Bazazian and D.~Karatzas and A.~Bagdanov},<br />
+	title = {Soft-PHOC Descriptor for End-to-End Word Spotting in Egocentric Scene Images},<br />
+	journal = {EPIC workshop at European Conference on Computer Vision Workshop},<br />
+	year = {2018},<br />
+        ee = {arxiv.org/pdf/1809.00854.pdf}<br />
+}<br />
