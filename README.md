@@ -4,11 +4,11 @@ Soft-PHOC is an intermediate representation of images based on character probabi
 [This work](https://arxiv.org/pdf/1809.00854.pdf) has two implementations based on Pytorch and TensorFlow.
 
 
-# Pytorch #
+## Pytorch ##
 
 The pytorch [implementation](https://github.com/denabazazian/SoftPHOC_TextDescriptor/tree/master/Pytorch) of SoftPHOC training.
 
-## Installation ##
+### Installation ###
 
 Find the environmet at: environment.yml
 ```
@@ -34,10 +34,26 @@ bash train_icdar.sh
 bash train_synthText.sh
 ```
 
-# TensorFlow #
+## TensorFlow ##
 
-The TensorFlow implementation of Soft-PHOC. 
+The TensorFlow [implementation](https://github.com/denabazazian/SoftPHOC_TextDescriptor/tree/master/TensorFlow) of Soft-PHOC. 
 
+* Required packages:
+    * TensorFlow 1.10
+    * OpenCV 3.4.4
+    * mkl 2019
+    * tqm
+    * scikit-image
+    * tensorboardX
+
+* For training:
+``` 
+python fcn_32_train_generator_validation_summary.py
+```
+
+* Word spotting codes are in ``` word_spotting ``` to extract the query word. 
+
+* For visualizing the character heatmaps the codes are in ``` visualize_hm```. 
 
 # Citation #
 
