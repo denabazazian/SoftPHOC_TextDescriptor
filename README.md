@@ -6,7 +6,7 @@ Soft-PHOC is an intermediate representation of images based on character probabi
 
 # Pytorch #
 
-The pytorch implementation of SoftPHOC training.
+The pytorch [implementation](https://github.com/denabazazian/SoftPHOC_TextDescriptor/tree/master/Pytorch) of SoftPHOC training.
 
 ## Installation ##
 
