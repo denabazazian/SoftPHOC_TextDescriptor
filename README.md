@@ -44,7 +44,7 @@ The TensorFlow implementation of Soft-PHOC.
 Please cite [this work](arxiv.org/pdf/1809.00854.pdf) in your publications if it helps your research: <br />
 
 @article{Bazazian18-softPHOC,<br />
-	author = {D.~Bazazian and D.~Karatzas and A.~Bagdanov},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	author = {D.~Bazazian and D.~Karatzas and A.~Bagdanov},<br />
 	title = {Soft-PHOC Descriptor for End-to-End Word Spotting in Egocentric Scene Images},<br />
 	journal = {EPIC workshop at European Conference on Computer Vision Workshop},<br />
 	year = {2018},<br />
