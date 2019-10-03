@@ -5,8 +5,8 @@ Soft-PHOC is an intermediate representation of images based on character probabi
 
 The SoftPhoc annotation.For instance, if the transcription is “PINTU”, we show how we can define the annotation of class “P” for
 the given transcription based on the value at each level of soft-PHOC descriptor.
-![](fig/SoftPHOC-labeling_PINTU_cropped.pdf)
-<img src="fig/SoftPHOC-labeling_PINTU_cropped.pdf">
+![](fig/SoftPHOC-labeling_PINTU_cropped-1.png)
+<img src="fig/SoftPHOC-labeling_PINTU_cropped-1.png">
 
 ## Pytorch ##
 
