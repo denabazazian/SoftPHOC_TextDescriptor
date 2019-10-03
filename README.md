@@ -12,6 +12,8 @@ the given transcription based on the value at each level of soft-PHOC descriptor
 </p>
 
 ![](fig/PINTU-1.png)
+
+A Deep Convolutional Neural Network estimating Soft-PHOC descriptors.
 ![](fig/net-cropped-1.png)
 
 ## Pytorch ##
